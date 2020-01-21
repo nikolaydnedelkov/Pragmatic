@@ -29,14 +29,14 @@ public class Computer {
                 '}';
     }
 
-    public void changeOperationSystem(String newOperationSystem){
+    public void changeOperationSystem(String newOperationSystem) {
         this.operationSystem = newOperationSystem;
     }
 
-    public void useMemory(double memory){
-        if(memory<this.freeMemory) {
+    public void useMemory(double memory) {
+        if (memory < this.freeMemory) {
             this.freeMemory -= memory;
-        }else{
+        } else {
             System.out.println("Not enough free memory!");
         }
     }
