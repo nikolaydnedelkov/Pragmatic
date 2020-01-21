@@ -24,13 +24,26 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
-  <component name="RunManager" selected="Application.MainLibrary">
+  <component name="RunManager" selected="Application.ComputerDemo">
     <configuration name="CalculatorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="calculator.CalculatorMain" />
       <module name="Lesson1Basics" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="computer.ComputerDemo" />
+      <module name="Lesson1Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="computer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,6 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComputerDemo" />
         <item itemvalue="Application.MainLibrary" />
         <item itemvalue="Application.CalculatorMain" />
         <item itemvalue="Application.TestClass" />
@@ -92,26 +106,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1579549974854">
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1579633491302">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1579549974854" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1579550573862">
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1579633491302" />
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1579633634927">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579550573862" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1579550573861">
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579633634927" />
+    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1579633634927">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579550573861" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1579550573861">
+    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579633634927" />
+    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1579633634927">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579550573861" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1579550573862">
+    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579633634927" />
+    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1579633634927">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579550573862" />
+    <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579633634927" />
     <state x="277" y="56" key="SettingsEditor" timestamp="1579545844414">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
