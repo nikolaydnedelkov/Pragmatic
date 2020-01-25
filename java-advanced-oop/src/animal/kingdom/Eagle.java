@@ -8,6 +8,11 @@ public class Eagle extends Animal {
 
     }
 
+    @Override
+    void run() {
+        System.out.println("Eagle is not running, Eagle is flying");
+    }
+
     public Eagle(boolean isBald, int age) {
         this.isBald = isBald;
         this.age = age;

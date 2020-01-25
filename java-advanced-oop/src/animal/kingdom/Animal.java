@@ -1,6 +1,6 @@
 package animal.kingdom;
 
-public class Animal {
+public abstract class Animal {
     double weight;
     double height;
     String name;
@@ -25,4 +25,6 @@ public class Animal {
     void fight() {
         System.out.println("Animal is fighting");
     }
+
+    abstract void run();
 }

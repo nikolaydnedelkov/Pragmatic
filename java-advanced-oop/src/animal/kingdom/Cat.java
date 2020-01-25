@@ -10,4 +10,9 @@ public class Cat extends Animal{
     void fight() {
         System.out.println("Cat is fighting");
     }
+
+    @Override
+    void run() {
+        System.out.println("Cat is running");
+    }
 }
